@@ -1,2 +1,0 @@
-const apiKey = ;
-const apiUrl = ;
